@@ -1,0 +1,5 @@
+Resultados obtenidos
+1. Al crear un nuevo usuario el api no retorna ninguna respuesta
+2. Al intentar crear un nvo usuario existente el api retorna el siguiente mensaje "This user already exist."
+3. Al hacer login con el passsword correcto el api devuelve el auth token
+4. Al hacer login con el password erroneo el api retorna el siguiente mensaje "Wrong password"

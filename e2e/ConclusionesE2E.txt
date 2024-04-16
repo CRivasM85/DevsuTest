@@ -1,0 +1,5 @@
+1. Las cifras mostradas en el carrito de compras no muestran la unidad monetaria
+2. La el monto total mostrado en el formulario de compra no muestra la unidad monetaria
+3. El campo card number solo deberia admitir numeros y actualmente admite letras
+4. El recibo de confirmación no muestra el nombre completo
+
